@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\obj\Release\HelloWorld.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CINTROANDBASICSYNTAX\HelloWorld\obj\Release\HelloWorld.pdb

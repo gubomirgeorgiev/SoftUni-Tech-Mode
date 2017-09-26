@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\bin\Debug\ForeignLanguage.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\bin\Debug\ForeignLanguage.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\bin\Debug\ForeignLanguage.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\obj\Debug\ForeignLanguage.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\obj\Debug\ForeignLanguage.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\ForeignLanguage\obj\Debug\ForeignLanguage.pdb

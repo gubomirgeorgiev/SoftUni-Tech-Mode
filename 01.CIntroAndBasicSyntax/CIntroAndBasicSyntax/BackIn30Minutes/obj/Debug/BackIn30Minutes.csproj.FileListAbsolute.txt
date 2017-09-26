@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

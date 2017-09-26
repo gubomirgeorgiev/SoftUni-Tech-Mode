@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\bin\Debug\MonthPrinter.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\bin\Debug\MonthPrinter.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\obj\Debug\MonthPrinter.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\obj\Debug\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\obj\Debug\MonthPrinter.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\MonthPrinter\obj\Debug\MonthPrinter.pdb

@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\bin\Debug\SumOddNumbers.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\bin\Debug\SumOddNumbers.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\bin\Debug\SumOddNumbers.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\obj\Debug\SumOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\obj\Debug\SumOddNumbers.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\SumOddNumbers\obj\Debug\SumOddNumbers.pdb

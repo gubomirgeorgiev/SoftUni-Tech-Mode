@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\bin\Debug\P15.NeighbourWars.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\bin\Debug\P15.NeighbourWars.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\bin\Debug\P15.NeighbourWars.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\obj\Debug\P15.NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\obj\Debug\P15.NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\obj\Debug\P15.NeighbourWars.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P15.NeighbourWars\obj\Debug\P15.NeighbourWars.pdb

@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\bin\Debug\TheatrePromotion.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\CIntroAndBasicSyntax\TheatrePromotion\obj\Debug\TheatrePromotion.pdb

@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\bin\Debug\P03.RestaurantDiscount.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\bin\Debug\P03.RestaurantDiscount.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\bin\Debug\P03.RestaurantDiscount.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\obj\Debug\P03.RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\obj\Debug\P03.RestaurantDiscount.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P03.RestaurantDiscount\obj\Debug\P03.RestaurantDiscount.pdb

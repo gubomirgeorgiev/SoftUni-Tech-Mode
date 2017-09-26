@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\bin\Debug\WordsInPlural.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\bin\Debug\WordsInPlural.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\bin\Debug\WordsInPlural.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\obj\Debug\WordsInPlural.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\obj\Debug\WordsInPlural.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\WordsInPlural\obj\Debug\WordsInPlural.pdb

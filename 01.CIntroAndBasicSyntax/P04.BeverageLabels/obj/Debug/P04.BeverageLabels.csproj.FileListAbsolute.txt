@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\bin\Debug\P04.BeverageLabels.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\bin\Debug\P04.BeverageLabels.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\bin\Debug\P04.BeverageLabels.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\obj\Debug\P04.BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\obj\Debug\P04.BeverageLabels.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\obj\Debug\P04.BeverageLabels.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\CIntroAndBasicSyntax\P04.BeverageLabels\obj\Debug\P04.BeverageLabels.csprojResolveAssemblyReference.cache

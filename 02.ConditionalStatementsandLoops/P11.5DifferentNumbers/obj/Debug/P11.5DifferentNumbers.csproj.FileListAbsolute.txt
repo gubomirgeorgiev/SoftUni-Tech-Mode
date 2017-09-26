@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\bin\Debug\P11.5DifferentNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\bin\Debug\P11.5DifferentNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\bin\Debug\P11.5DifferentNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\obj\Debug\P11.5DifferentNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\obj\Debug\P11.5DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\obj\Debug\P11.5DifferentNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P11.5DifferentNumbers\obj\Debug\P11.5DifferentNumbers.pdb

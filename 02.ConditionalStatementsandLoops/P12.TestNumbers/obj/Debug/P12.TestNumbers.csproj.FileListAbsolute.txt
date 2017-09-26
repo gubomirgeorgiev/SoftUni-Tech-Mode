@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\bin\Debug\P12.TestNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\bin\Debug\P12.TestNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\bin\Debug\P12.TestNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\obj\Debug\P12.TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\obj\Debug\P12.TestNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P12.TestNumbers\obj\Debug\P12.TestNumbers.pdb

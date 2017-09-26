@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\bin\Debug\P06.IntervalofNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\bin\Debug\P06.IntervalofNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\bin\Debug\P06.IntervalofNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\obj\Debug\P06.IntervalofNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\obj\Debug\P06.IntervalofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\obj\Debug\P06.IntervalofNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P06.IntervalofNumbers\obj\Debug\P06.IntervalofNumbers.pdb

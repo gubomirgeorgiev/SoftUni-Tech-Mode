@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\bin\Debug\P04.Hotel.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\bin\Debug\P04.Hotel.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\bin\Debug\P04.Hotel.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\obj\Debug\P04.Hotel.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\obj\Debug\P04.Hotel.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\obj\Debug\P04.Hotel.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P04.Hotel\obj\Debug\P04.Hotel.pdb

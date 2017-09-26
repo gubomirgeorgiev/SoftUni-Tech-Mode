@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\bin\Debug\P13.GameOfNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\bin\Debug\P13.GameOfNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\bin\Debug\P13.GameOfNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\obj\Debug\P13.GameOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\obj\Debug\P13.GameOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\obj\Debug\P13.GameOfNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P13.GameOfNumbers\obj\Debug\P13.GameOfNumbers.pdb

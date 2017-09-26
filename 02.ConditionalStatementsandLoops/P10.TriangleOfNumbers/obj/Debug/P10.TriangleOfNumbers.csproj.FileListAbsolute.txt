@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\bin\Debug\P10.TriangleOfNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\bin\Debug\P10.TriangleOfNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\bin\Debug\P10.TriangleOfNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\obj\Debug\P10.TriangleOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\obj\Debug\P10.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\obj\Debug\P10.TriangleOfNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P10.TriangleOfNumbers\obj\Debug\P10.TriangleOfNumbers.pdb

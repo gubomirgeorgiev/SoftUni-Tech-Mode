@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\bin\Debug\P08.CaloriesCounter.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\bin\Debug\P08.CaloriesCounter.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\bin\Debug\P08.CaloriesCounter.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\obj\Debug\P08.CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\obj\Debug\P08.CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\obj\Debug\P08.CaloriesCounter.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P08.CaloriesCounter\obj\Debug\P08.CaloriesCounter.pdb

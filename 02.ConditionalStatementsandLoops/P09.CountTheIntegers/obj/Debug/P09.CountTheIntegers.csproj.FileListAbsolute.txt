@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\bin\Debug\P09.CountTheIntegers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\bin\Debug\P09.CountTheIntegers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\bin\Debug\P09.CountTheIntegers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\obj\Debug\P09.CountTheIntegers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\obj\Debug\P09.CountTheIntegers.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P09.CountTheIntegers\obj\Debug\P09.CountTheIntegers.pdb

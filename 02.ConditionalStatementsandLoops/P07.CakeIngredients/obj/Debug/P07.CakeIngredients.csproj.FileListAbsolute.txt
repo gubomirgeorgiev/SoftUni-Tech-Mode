@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\bin\Debug\P07.CakeIngredients.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\bin\Debug\P07.CakeIngredients.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\bin\Debug\P07.CakeIngredients.pdb
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\obj\Debug\P07.CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\obj\Debug\P07.CakeIngredients.exe
+C:\Users\lyubomirgeorgiev\source\repos\ConditionalStatementsandLoops\P07.CakeIngredients\obj\Debug\P07.CakeIngredients.pdb
