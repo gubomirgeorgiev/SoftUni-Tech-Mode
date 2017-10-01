@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\bin\Debug\P08RefactorVolumeOfPyramid.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\bin\Debug\P08RefactorVolumeOfPyramid.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\bin\Debug\P08RefactorVolumeOfPyramid.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\obj\Debug\P08RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\obj\Debug\P08RefactorVolumeOfPyramid.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P08RefactorVolumeOfPyramid\obj\Debug\P08RefactorVolumeOfPyramid.pdb

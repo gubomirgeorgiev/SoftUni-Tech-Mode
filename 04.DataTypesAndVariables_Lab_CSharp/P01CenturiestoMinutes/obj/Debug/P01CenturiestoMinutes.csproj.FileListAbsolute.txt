@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\bin\Debug\P01CenturiestoMinutes.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\bin\Debug\P01CenturiestoMinutes.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\bin\Debug\P01CenturiestoMinutes.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\obj\Debug\P01CenturiestoMinutes.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\obj\Debug\P01CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\obj\Debug\P01CenturiestoMinutes.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P01CenturiestoMinutes\obj\Debug\P01CenturiestoMinutes.pdb

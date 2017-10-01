@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\bin\Debug\P07Greeting.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\bin\Debug\P07Greeting.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\bin\Debug\P07Greeting.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\obj\Debug\P07Greeting.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\obj\Debug\P07Greeting.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P07Greeting\obj\Debug\P07Greeting.pdb

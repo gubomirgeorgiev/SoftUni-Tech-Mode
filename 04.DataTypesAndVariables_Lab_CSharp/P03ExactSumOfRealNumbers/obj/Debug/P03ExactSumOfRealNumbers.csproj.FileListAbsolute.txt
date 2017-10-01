@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\bin\Debug\P03ExactSumOfRealNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\bin\Debug\P03ExactSumOfRealNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\bin\Debug\P03ExactSumOfRealNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\obj\Debug\P03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\obj\Debug\P03ExactSumOfRealNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P03ExactSumOfRealNumbers\obj\Debug\P03ExactSumOfRealNumbers.pdb

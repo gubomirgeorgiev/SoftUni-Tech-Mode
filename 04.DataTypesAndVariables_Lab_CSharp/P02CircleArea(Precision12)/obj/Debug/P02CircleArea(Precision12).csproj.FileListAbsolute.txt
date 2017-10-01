@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\bin\Debug\P02CircleArea(Precision12).exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\bin\Debug\P02CircleArea(Precision12).exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\bin\Debug\P02CircleArea(Precision12).pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\obj\Debug\P02CircleArea(Precision12).csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\obj\Debug\P02CircleArea(Precision12).exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P02CircleArea(Precision12)\obj\Debug\P02CircleArea(Precision12).pdb

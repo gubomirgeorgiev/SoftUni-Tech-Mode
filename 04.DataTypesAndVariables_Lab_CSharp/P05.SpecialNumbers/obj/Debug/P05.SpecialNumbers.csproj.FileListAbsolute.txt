@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\bin\Debug\P05.SpecialNumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\bin\Debug\P05.SpecialNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\bin\Debug\P05.SpecialNumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\obj\Debug\P05.SpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\obj\Debug\P05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\obj\Debug\P05.SpecialNumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P05.SpecialNumbers\obj\Debug\P05.SpecialNumbers.pdb

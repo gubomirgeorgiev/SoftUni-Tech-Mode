@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\bin\Debug\P04Elevator.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\bin\Debug\P04Elevator.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\bin\Debug\P04Elevator.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\obj\Debug\P04Elevator.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\obj\Debug\P04Elevator.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\obj\Debug\P04Elevator.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P04Elevator\obj\Debug\P04Elevator.pdb

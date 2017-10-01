@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\bin\Debug\P06TriplesOfLetters.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\bin\Debug\P06TriplesOfLetters.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\bin\Debug\P06TriplesOfLetters.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\obj\Debug\P06TriplesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\obj\Debug\P06TriplesOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\obj\Debug\P06TriplesOfLetters.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P06TriplesOfLetters\obj\Debug\P06TriplesOfLetters.pdb

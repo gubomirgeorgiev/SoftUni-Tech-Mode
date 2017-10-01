@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\bin\Debug\P09RefactorSpecialnumbers.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\bin\Debug\P09RefactorSpecialnumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\bin\Debug\P09RefactorSpecialnumbers.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\obj\Debug\P09RefactorSpecialnumbers.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\obj\Debug\P09RefactorSpecialnumbers.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\obj\Debug\P09RefactorSpecialnumbers.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariables_Lab_CSharp\P09RefactorSpecialnumbers\obj\Debug\P09RefactorSpecialnumbers.pdb
