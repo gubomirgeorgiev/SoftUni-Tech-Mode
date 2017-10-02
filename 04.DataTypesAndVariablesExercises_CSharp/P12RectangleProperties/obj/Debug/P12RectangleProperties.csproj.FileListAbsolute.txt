@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\bin\Debug\P12RectangleProperties.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\bin\Debug\P12RectangleProperties.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\bin\Debug\P12RectangleProperties.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\obj\Debug\P12RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\obj\Debug\P12RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\obj\Debug\P12RectangleProperties.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P12RectangleProperties\obj\Debug\P12RectangleProperties.pdb

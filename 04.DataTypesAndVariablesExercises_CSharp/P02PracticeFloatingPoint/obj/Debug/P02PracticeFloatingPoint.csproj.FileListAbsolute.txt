@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\bin\Debug\P02PracticeFloatingPoint.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\bin\Debug\P02PracticeFloatingPoint.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\bin\Debug\P02PracticeFloatingPoint.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\obj\Debug\P02PracticeFloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\obj\Debug\P02PracticeFloatingPoint.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P02PracticeFloatingPoint\obj\Debug\P02PracticeFloatingPoint.pdb

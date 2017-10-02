@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\bin\Debug\P05BooleanVariable.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\bin\Debug\P05BooleanVariable.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\bin\Debug\P05BooleanVariable.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\obj\Debug\P05BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\obj\Debug\P05BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\obj\Debug\P05BooleanVariable.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P05BooleanVariable\obj\Debug\P05BooleanVariable.pdb

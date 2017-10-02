@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\bin\Debug\P03PracticeCharsAndStrings.exe.config
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\bin\Debug\P03PracticeCharsAndStrings.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\bin\Debug\P03PracticeCharsAndStrings.pdb
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\obj\Debug\P03PracticeCharsAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\obj\Debug\P03PracticeCharsAndStrings.exe
+C:\Users\lyubomirgeorgiev\source\repos\04.DataTypesAndVariablesExercises_CSharp\P03PracticeCharsAndStrings\obj\Debug\P03PracticeCharsAndStrings.pdb

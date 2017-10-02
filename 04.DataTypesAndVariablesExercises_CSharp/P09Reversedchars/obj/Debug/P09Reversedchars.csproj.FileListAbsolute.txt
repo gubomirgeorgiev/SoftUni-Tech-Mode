@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\bin\Debug\P09Reversedchars.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\bin\Debug\P09Reversedchars.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\bin\Debug\P09Reversedchars.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\obj\Debug\P09Reversedchars.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\obj\Debug\P09Reversedchars.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P09Reversedchars\obj\Debug\P09Reversedchars.pdb

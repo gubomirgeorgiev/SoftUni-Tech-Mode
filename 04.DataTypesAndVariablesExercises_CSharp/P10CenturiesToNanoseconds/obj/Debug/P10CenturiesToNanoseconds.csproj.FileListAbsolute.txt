@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.pdb
