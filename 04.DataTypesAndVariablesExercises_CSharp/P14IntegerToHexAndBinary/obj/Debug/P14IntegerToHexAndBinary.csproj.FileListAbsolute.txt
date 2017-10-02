@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\bin\Debug\P14IntegerToHexAndBinary.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\bin\Debug\P14IntegerToHexAndBinary.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\bin\Debug\P14IntegerToHexAndBinary.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\obj\Debug\P14IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\obj\Debug\P14IntegerToHexAndBinary.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P14IntegerToHexAndBinary\obj\Debug\P14IntegerToHexAndBinary.pdb

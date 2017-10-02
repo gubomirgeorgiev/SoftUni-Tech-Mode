@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\bin\Debug\P17PrintPartOfASCIITable.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\bin\Debug\P17PrintPartOfASCIITable.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\bin\Debug\P17PrintPartOfASCIITable.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\obj\Debug\P17PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\obj\Debug\P17PrintPartOfASCIITable.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P17PrintPartOfASCIITable\obj\Debug\P17PrintPartOfASCIITable.pdb

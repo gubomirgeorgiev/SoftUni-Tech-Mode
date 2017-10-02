@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\bin\Debug\P18DifferentntegersSize.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\bin\Debug\P18DifferentntegersSize.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\bin\Debug\P18DifferentntegersSize.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\obj\Debug\P18DifferentntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\obj\Debug\P18DifferentntegersSize.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\obj\Debug\P18DifferentntegersSize.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P18DifferentntegersSize\obj\Debug\P18DifferentntegersSize.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\bin\Debug\P13VowelOrDigit.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\bin\Debug\P13VowelOrDigit.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\bin\Debug\P13VowelOrDigit.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\obj\Debug\P13VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\obj\Debug\P13VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\obj\Debug\P13VowelOrDigit.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P13VowelOrDigit\obj\Debug\P13VowelOrDigit.pdb

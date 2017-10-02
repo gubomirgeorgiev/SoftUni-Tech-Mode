@@ -1,0 +1,6 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\bin\Debug\P16ComparingFloats.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\bin\Debug\P16ComparingFloats.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\bin\Debug\P16ComparingFloats.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\obj\Debug\P16ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\obj\Debug\P16ComparingFloats.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P16ComparingFloats\obj\Debug\P16ComparingFloats.pdb

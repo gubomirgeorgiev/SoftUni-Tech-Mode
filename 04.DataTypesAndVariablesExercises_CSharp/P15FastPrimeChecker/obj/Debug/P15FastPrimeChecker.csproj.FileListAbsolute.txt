@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\bin\Debug\P15FastPrimeChecker.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\bin\Debug\P15FastPrimeChecker.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\bin\Debug\P15FastPrimeChecker.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\obj\Debug\P15FastPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\obj\Debug\P15FastPrimeChecker.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\obj\Debug\P15FastPrimeChecker.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P15FastPrimeChecker\obj\Debug\P15FastPrimeChecker.csprojResolveAssemblyReference.cache
