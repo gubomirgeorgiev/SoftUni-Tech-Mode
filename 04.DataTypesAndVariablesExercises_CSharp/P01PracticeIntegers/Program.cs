@@ -11,7 +11,7 @@ namespace P01PracticeIntegers
         static void Main(string[] args)
         {
             SByte firstNum = SByte.Parse(Console.ReadLine());
-            Byte secondNum = Byte.Parse(Console.ReadLine());
+            byte secondNum = Byte.Parse(Console.ReadLine());
             short thirdNum = short.Parse(Console.ReadLine());
             ushort forthNum = ushort.Parse(Console.ReadLine());
             uint fifthNum = uint.Parse(Console.ReadLine());

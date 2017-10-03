@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17PrintPartOfASCIITable", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18DifferentntegersSize", "P18DifferentntegersSize\P18DifferentntegersSize.csproj", "{D8985669-CC3D-4B39-8D27-673B56A3CDD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19TheaThePhotographer", "P19TheaThePhotographer\P19TheaThePhotographer.csproj", "{04114483-26EF-47BC-A9C8-3F4C8D3E309B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{D8985669-CC3D-4B39-8D27-673B56A3CDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8985669-CC3D-4B39-8D27-673B56A3CDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8985669-CC3D-4B39-8D27-673B56A3CDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04114483-26EF-47BC-A9C8-3F4C8D3E309B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04114483-26EF-47BC-A9C8-3F4C8D3E309B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04114483-26EF-47BC-A9C8-3F4C8D3E309B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04114483-26EF-47BC-A9C8-3F4C8D3E309B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\bin\Debug\P19TheaThePhotographer.exe.config
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\bin\Debug\P19TheaThePhotographer.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\bin\Debug\P19TheaThePhotographer.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\obj\Debug\P19TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\obj\Debug\P19TheaThePhotographer.exe
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\obj\Debug\P19TheaThePhotographer.pdb
+C:\Users\lyubomirgeorgiev\Documents\Tech Mode\04.DataTypesAndVariablesExercises_CSharp\P19TheaThePhotographer\obj\Debug\P19TheaThePhotographer.csprojResolveAssemblyReference.cache
