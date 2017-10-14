@@ -11,12 +11,24 @@ namespace P02AppendLists
     {
         static void Main(string[] args)
         {
-            string[] appendList = (string.Join("", Regex.Split(Console.ReadLine(), @"\s+"))).Split('|');
-            for (int i = appendList.Length - 1; i>0 ; i--)
+            var appendList = (string.Join("", Regex.Split(Console.ReadLine(), @"\s+"))).ToArray();
+            List<string> output = new List<string>();
+            string add = "";
+            for(int i =0; i < appendList.Length; i++)
             {
-                Console.Write(string.Join(" ", appendList[i].ToCharArray())+ " ");
+                if (appendList[i] != '|')
+                {
+                    add += appendList[i]+" ";
+                }
+                else if (appendList[i] == '|')
+                {
+                    output.Add(add.TrimEnd());
+                    add = "";
+                }
             }
-            Console.Write(string.Join(" ", appendList[0].ToCharArray()));
+            output.Add(add.TrimEnd());
+            output.Reverse();
+            Console.WriteLine(string.Join(" ",output));
         }
     }
 }
