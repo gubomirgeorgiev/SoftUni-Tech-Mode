@@ -11,10 +11,9 @@ namespace P3EqualSums
     {
         static void Main(string[] args)
         {
-            List<string> inputFile = File.ReadAllLines("input.txt").ToList();
-            File.Delete("output.txt");
-            
-            
+            List<string> inputFile = File.ReadAllLines("../../input.txt").ToList();
+            string outputPath = "../../output.txt";
+            File.Delete(outputPath);          
             for (int line =0; line < inputFile.Count; line++)
             {
                 var index = -1;
@@ -38,11 +37,11 @@ namespace P3EqualSums
                 }
                 if (index == -1)
                 {
-                    File.AppendAllText("output.txt", "no" + Environment.NewLine);
+                    File.AppendAllText(outputPath, "no" + Environment.NewLine);
                 }
                 else
                 {
-                    File.AppendAllText("output.txt", index + Environment.NewLine);
+                    File.AppendAllText(outputPath, index + Environment.NewLine);
                 }
             }
         }

@@ -11,15 +11,16 @@ namespace P02IndexOfLetters
     {
         static void Main(string[] args)
         {
-            List<char[]> array = File.ReadAllLines("input.txt").Select(x=>x.ToCharArray()).ToList();
-            File.Delete("output.txt");
+            List<char[]> array = File.ReadAllLines("../../input.txt").Select(x=>x.ToCharArray()).ToList();
+            string outputPath = "../../output.txt";
+            File.Delete(outputPath);
             for (int i =0; i < array.Count; i++)
             {
                 foreach (char s in array[i])
                 {
-                    File.AppendAllText("output.txt", (s + " -> " + (((int)s) - 97))+Environment.NewLine);
+                    File.AppendAllText(outputPath, (s + " -> " + (((int)s) - 97))+Environment.NewLine);
                 }
-                File.AppendAllText("output.txt", Environment.NewLine);
+                File.AppendAllText(outputPath, Environment.NewLine);
             }
         }
     }

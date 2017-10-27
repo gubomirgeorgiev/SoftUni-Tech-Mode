@@ -11,8 +11,9 @@ namespace P04MaxSequenceOfEqualElements
     {
         static void Main(string[] args)
         {
-            List<string> array = File.ReadAllLines("input.txt").ToList();
-            File.Delete("output.txt");
+            List<string> array = File.ReadAllLines("../../input.txt").ToList();
+            string outputPath = "../../output.txt";
+            File.Delete(outputPath);
             for (int j=0; j<array.Count; j++)
             {
                 int[] sequance = array[j]
@@ -44,14 +45,14 @@ namespace P04MaxSequenceOfEqualElements
                 {
                     if (output<(maxStart + maxLen) - 1)
                     {
-                        File.AppendAllText("output.txt", $"{sequance[output]} ");
+                        File.AppendAllText(outputPath, $"{sequance[output]} ");
                     }
                     else
                     {
-                        File.AppendAllText("output.txt", $"{sequance[output]}");
+                        File.AppendAllText(outputPath, $"{sequance[output]}");
                     }
                 }
-                File.AppendAllText("output.txt",Environment.NewLine);
+                File.AppendAllText(outputPath, Environment.NewLine);
             }
         }
     }

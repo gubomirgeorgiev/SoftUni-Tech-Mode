@@ -11,13 +11,13 @@ namespace P06FixEmails
     {
         static void Main(string[] args)
         {
-            var file = File.ReadAllLines("input.txt");
+            var file = File.ReadAllLines("../../input.txt");
             //File.Delete("output.txt");
             var numbers = Directory.GetFiles(".")
-                .Where(f => f.StartsWith(@".\output"))
+                .Where(f => f.StartsWith(@"../../.\output"))
                 .Select(f => f.Split('_').Skip(1).FirstOrDefault())
                 .Where(f => f != null)
-                .Select(f => f.Replace(".txt", ""))
+                .Select(f => f.Replace("../../.txt", ""))
                 .Select(int.Parse);
             //.Max();
 
@@ -26,7 +26,7 @@ namespace P06FixEmails
             {
                 nextNum = numbers.Max()+1;
             }
-            var outputFileName = "output_" + nextNum + ".txt";
+            var outputFileName = "../../output_" + nextNum + ".txt";
             for (int i =0; i<file.Length; i += 2)
             {
                 if (file[i]=="stop"|| file[i + 1] == "stop")

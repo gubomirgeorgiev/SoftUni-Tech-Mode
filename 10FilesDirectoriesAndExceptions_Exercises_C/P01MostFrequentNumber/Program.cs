@@ -11,8 +11,9 @@ namespace P01MostFrequentNumber
     {
         static void Main(string[] args)
         {
-            var inputFile = File.ReadAllLines("input.txt");
-            File.Delete("output.txt");
+            var inputFile = File.ReadAllLines("../../input.txt");
+            string outputPath = "../../output.txt";
+            File.Delete(outputPath);
             for (int j =0; j<inputFile.Length; j++)
             {
                 ushort[] array = inputFile[j].Split(' ').Select(ushort.Parse).ToArray();
@@ -29,7 +30,7 @@ namespace P01MostFrequentNumber
                 {
                     if (count[array[i]] == maxValue)
                     {
-                        File.AppendAllText("output.txt", string.Join("", array[i])+Environment.NewLine);
+                        File.AppendAllText(outputPath, string.Join("", array[i])+Environment.NewLine);
                         break;
                     }
                 }
