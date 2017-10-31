@@ -91,6 +91,6 @@ namespace P10BookLibraryModification
             {
                 File.AppendAllText(outputPath, ($"{author.Key} -> {author.Value:dd.MM.yyyy}")+Environment.NewLine);
             }
-        }
+         }
     }
 }
